@@ -3,7 +3,7 @@
 	<head>
 		<meta charset="UTF-8">
 		<link rel="stylesheet" href="css/style.css" type="text/css"/>
-		<title>Basic CSS Exercise</title>
+		<title>Basic CSS Mockup</title>
 	</head>
 	<body class="sfooter">
 		<div class="sfooter-content">

@@ -41,3 +41,36 @@ body { width: 100%;}
 /********************************************
 * ADD YOUR CSS HERE :D
 ********************************************/
+
+header {
+	padding: 5px;
+	background-color: lightskyblue;
+	margin: 5px;
+}
+
+.instructions {
+	padding: 20px;
+	border: 5px solid lightgrey;
+	margin: 5px 0px 5px 5px;
+}
+
+.pull-left {
+	border: solid lightgrey;
+	padding 10px;
+	display-inline;
+}
+
+.pull-left h2 {
+	display: inline;
+	float: right;
+	}
+
+section {
+	background: lightskyblue;
+	padding: 10px;
+}
+
+footer {
+	background-color: black;
+	color: white;
+}
